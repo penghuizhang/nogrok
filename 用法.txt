@@ -1,0 +1,7 @@
+
+进入ngrok文件夹，在命令行下进行编辑命令
+
+ngrok -config=ngrok.cfg -subdomain xxx 8080
+
+域名结果如下所示：
+http://kylin.tunnel.qydev.com此时端口是8080，不用再网址后面添加8080
